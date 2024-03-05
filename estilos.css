@@ -1,0 +1,91 @@
+*{
+    margin 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+*{
+    font-family: "Rubik", sans-serif;
+}
+    
+.navbar{
+    background-color: aqua;
+}
+
+.navbar-brand{
+    color: blue !important;
+}
+
+.navbar-brand img{
+    height: 80px;
+    
+}
+
+.nav-link{
+    color:  #fff ! important;
+    text-shadow: 0 0 5px #000 ;
+
+}
+
+.nav-link.hover{
+    color: #000 !important;
+}
+
+.jumbotrom{
+    height: 450px;
+    background-image: url(img/medications-1628372_1280.jpg);
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    background-color: aqua ;
+    padding: 20px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 0 0 5px #000 ;
+    margin-bottom: 0;
+
+}
+
+.nleft{
+    background-image: url(img/medications-257336_1280.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    
+}
+
+.nright{
+    padding: 20px;
+}
+
+.articulo{
+    border: 5px solid#000;
+    text-align: center;
+
+}
+
+h4{
+    margin-top: 20px;
+}
+
+.articulo i{
+    font-size: 35px;
+    margin-top: 20px;
+}
+
+footer{
+    background-color:#000 ;
+    color: aqua;
+    text-align: center;
+    padding: 30px;
+    font-size: 30px;
+}
+
+footer a{
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 10;
+
+}
