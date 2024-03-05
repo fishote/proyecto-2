@@ -1,5 +1,5 @@
 *{
-    margin 0;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
@@ -38,6 +38,38 @@
     font-weight: bold;
 }
 h2{
+    text-align: center;
+    background-color: aqua ;
+    padding: 20px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 0 0 5px #000 ;
+    margin-bottom: 0;
+
+}
+
+h3{
+    text-align: center;
+    background-color: aqua ;
+    padding: 20px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 0 0 5px #000 ;
+    margin-bottom: 0;
+
+}
+
+h4{
+    text-align: center;
+    background-color: aqua ;
+    padding: 20px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 0 0 5px #000 ;
+    margin-bottom: 0;
+
+}
+p{
     text-align: center;
     background-color: aqua ;
     padding: 20px;
